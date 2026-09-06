@@ -2,14 +2,14 @@
 ------------------------------------|------------------------------------|-----------------------------------------------------------|
 Domain                              |               Input                |                          Learning                         |         
 ------------------------------------|------------------------------------|-----------------------------------------------------------|
-Machine Learning                    |               Numbers              |       1)Supervised Learning(Regression or Classification) |       |
+Machine Learning                    |               Numbers              |       1)Supervised Learning(Regression or Classification) |       
                                     |                                    |       2)UnSupervised Learning                             |
                                     |                                    |       3)Semi Supervised Learning                          |
                                     |                                    |                                                           |
-Deep Learning                       |               Numbers and Images   |       1)Supervised Learning(Regression or Classification) |       |
+Deep Learning                       |               Numbers and Images   |       1)Supervised Learning(Regression or Classification) |       
                                     |                                    |       2)Semi Supervised Learning                          |
                                     |                                    |                                                           |
-Natural Language Processing (NLP)   |               Text                 |       1)Supervised Learning(Regression or Classification) |      |
+Natural Language Processing (NLP)   |               Text                 |       1)Supervised Learning(Regression or Classification) |      
                                     |                                    |       2)Semi Supervised Learning                          |
                                     |                                    |                                                           |
 Time Series Analysis                |               Date                 |       1)Supervised Learning(Regression)                   |
