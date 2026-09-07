@@ -1,0 +1,35 @@
+
+1) How will you achieve this in AI?
+   The employee will submit their resignation through the application or via email. 
+   Therefore, we will have a record of the employee’s resignation date in the database or email.
+   Based on the resignation date, we can identify when an employee is expected to leave the company 
+   and proactively reassign their incomplete work to other team members. This will help ensure that
+   ongoing development activities continue without any interruption or impact on the project.
+
+2) Find out the 3 -Stage of Problem Identification?
+   *) Machine Learning or NLP
+   *) Supervised Learning
+   *) Classification
+
+3) Name of the Project?
+   Smart Employee Transition Management
+
+4) Create the dummy Dataset?
+
+  | Employee Id | EmployeeName  | DOB        | Employee Joined date | Employee Reassigned date | Going_To_Reassigned (Yes/NO) |
+| ----------- | ------------- | ---------- | -------------------- | ------------------------ | ---------------------------- |
+| EMP001      | Arun Kumar    | 15-03-1992 | 10-06-2018           | 30-09-2026               | Yes                          |
+| EMP002      | Priya Sharma  | 22-07-1995 | 15-02-2020           | 15-10-2026               | Yes                          |
+| EMP003      | Karthik Raj   | 08-11-1990 | 05-08-2017           |                          | No                           |
+| EMP004      | Divya S       | 19-01-1994 | 20-09-2019           | 31-10-2026               | Yes                          |
+| EMP005      | Suresh Babu   | 12-05-1988 | 11-01-2016           |                          | No                           |
+| EMP006      | Meena R       | 27-09-1996 | 18-07-2021           | 30-11-2026               | Yes                          |
+| EMP007      | Vignesh Kumar | 03-02-1991 | 25-03-2018           |                          | No                           |
+| EMP008      | Anitha Devi   | 14-12-1993 | 07-11-2019           | 15-12-2026               | Yes                          |
+| EMP009      | Naveen Kumar  | 30-06-1997 | 12-04-2022           |                          | No                           |
+| EMP010      | Swetha M      | 09-08-1995 | 22-06-2020           | 31-12-2026               | Yes                          |
+| EMP011      | Rajesh K      | 17-10-1989 | 14-02-2015           |                          | No                           |
+| EMP012      | Harini P      | 25-04-1998 | 09-08-2023           | 31-01-2027               | Yes                          |
+| EMP013      | Santhosh R    | 06-01-1992 | 16-05-2018           |                          | No                           |
+| EMP014      | Keerthana V   | 21-03-1996 | 28-10-2021           | 28-02-2027               | Yes                          |
+| EMP015      | Manoj S       | 11-09-1990 | 03-07-2017           |                          | No                           |
