@@ -1,0 +1,14 @@
+
+1. Multiple Linear Regression Supports Multiple Inputs
+
+2. Python does not support Categorical Data so for Categorical data it should be converted into numbers
+
+3. Categorical are off two types 
+   
+    i) Nominal Data   - Example - City names like Chennai, Coimbatore - to support nominal data it should be converted into numbers.
+                        In Nominal data means we need to use one heart encoding Algorithm for conversion.
+                        we will be having single input column and Column expansion will be there.
+    ii) Ordinal Data  - Example - Shirt Size Like XS,S,XL,XXL.
+                        In Ordinal data means we need to use Label Encoder Algorithm for conversion.
+                        We will be having single input column and column expansion will not be there.
+                        

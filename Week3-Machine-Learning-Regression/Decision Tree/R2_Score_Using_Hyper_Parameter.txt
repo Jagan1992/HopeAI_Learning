@@ -1,0 +1,8 @@
+
+S.NO    criterion          splitter       random_state   R2_Score
+ 1      squared_error      best                10         0.9201
+ 2      absolute_error     best                10         0.9481
+ 3      poisson            best                10         0.9565
+ 4      squared_error      random              10         0.8545
+ 5      absolute_error     random              10         0.8917
+ 6      poisson            random              10         0.8545

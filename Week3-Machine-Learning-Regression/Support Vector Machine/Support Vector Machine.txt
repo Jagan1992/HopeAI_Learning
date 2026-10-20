@@ -1,0 +1,16 @@
+
+
+Support Vector Machine Algorithm works for Non Linear data. It Provides solution has Linear line and non linear line(Parabola)
+
+It works for both 
+
+i)Regression 
+ii)Classification
+
+Standardisation is used in Support Vector Algorithm only if which when we have large difference between the Min value and Max value
+
+so we are following formula to convert them into a defined range   -     X - M           which is -1 to +1 or -3 to +3
+                                                                       ---------
+                                                                           Z
+
+so that the verify and improve the accuracy value of the model if we are having very huge difference between Min Value and Max Value
